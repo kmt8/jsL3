@@ -88,7 +88,7 @@ function updatelocalstorage(){
 }
 
 
-// Get from local storage
+// Show on UI get from local storage
                                             // key
 const todos = JSON.parse(localStorage.getItem("todos"));
 // console.log(todos);
